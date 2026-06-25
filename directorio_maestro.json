@@ -1,0 +1,1502 @@
+{
+  "_meta": {
+    "descripcion": "Directorio maestro Abril RT Grupo Inmobiliario",
+    "planillas": [
+      "TULSI",
+      "JADE",
+      "CANELA",
+      "SEVARO"
+    ],
+    "ultima_actualizacion": "2026-06-24",
+    "total": 88,
+    "activos": 70,
+    "id_principal": "email"
+  },
+  "colaboradores": [
+    {
+      "email": "jfernandez@abril.pe",
+      "nombre_completo": "FERNANDEZ RUIZ, JOSE FERNANDO",
+      "planilla": "SEVARO",
+      "cargo": "Jefe de almacen",
+      "area": "ALMACEN",
+      "dni": "09596904",
+      "celular_corporativo": "995905004",
+      "codigo_celular": "RT-C024",
+      "equipos": [
+        {
+          "codigo": "RT-LA024",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QX01K"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "olaguna@abril.pe",
+      "nombre_completo": "LAGUNA ORTEGA, ORFA OFELIA",
+      "planilla": "JADE",
+      "cargo": "EJECUTIVO PRIME B2B",
+      "area": "B2B",
+      "dni": "22489875",
+      "celular_corporativo": "937609346",
+      "codigo_celular": "RT-C029",
+      "equipos": [],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "eatoche@abril.pe",
+      "nombre_completo": "ATOCHE POQUIOMA, EDINSON ADRIAN",
+      "planilla": "TULSI",
+      "cargo": "ASISTENTE ADMINISTRATIVO",
+      "area": "CONTABILIDAD",
+      "dni": "74492727",
+      "celular_corporativo": "995904885",
+      "codigo_celular": "RT-C037",
+      "equipos": [
+        {
+          "codigo": "RT-LA016",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QX046"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "dchacmana@abril.pe",
+      "nombre_completo": "CHACMANA CABRERA, DANIEL ALEXANDER",
+      "planilla": "SEVARO",
+      "cargo": "ANALISTA DE TESORERIA",
+      "area": "CONTABILIDAD",
+      "dni": "72217595",
+      "celular_corporativo": "995904991",
+      "codigo_celular": "RT-C032",
+      "equipos": [
+        {
+          "codigo": "RT-LA017",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRHVZ"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "mocana@abril.pe",
+      "nombre_completo": "OCAÑA ARANDA, MAGNA MARITZA",
+      "planilla": "TULSI",
+      "cargo": "JEFE DE CONTABILIDAD Y TESORERIA",
+      "area": "CONTABILIDAD",
+      "dni": "46811664",
+      "celular_corporativo": "995905065",
+      "codigo_celular": "RT-C031",
+      "equipos": [
+        {
+          "codigo": "RT-LA015",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWR9X"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "ALFARO TORATTO, SEBASTIAN LEONARDO FELIX",
+      "planilla": "SEVARO",
+      "cargo": "Asistente de Gerencia",
+      "area": "GERENCIA",
+      "dni": "76569850",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "rtoratto@abril.pe",
+      "nombre_completo": "TORATTO FERNANDEZ, ROCIO DEL CARMEN",
+      "planilla": "SEVARO",
+      "cargo": "Gerente General",
+      "area": "GERENCIA",
+      "dni": "10142148",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "ALFARO TORATTO, VALERIA ANDREA",
+      "planilla": "CANELA",
+      "cargo": "ASISTENTE DE MARKETING",
+      "area": "GERENCIA",
+      "dni": "70959992",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "kcastaneda@abril.pe",
+      "nombre_completo": "CASTAÑEDA ROMERO, KATHERINE BRENDA",
+      "planilla": "TULSI",
+      "cargo": "ABOGADO INMOBILIARIO",
+      "area": "LEGAL",
+      "dni": "73786301",
+      "celular_corporativo": "937596034",
+      "codigo_celular": "RT-C041",
+      "equipos": [
+        {
+          "codigo": "RT-LA025",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRHS3"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "fpalomino@abril.pe",
+      "nombre_completo": "PALOMINO IBARRA, FIORELLA",
+      "planilla": "CANELA",
+      "cargo": "ABOGADO",
+      "area": "LEGAL",
+      "dni": "72886667",
+      "celular_corporativo": "937788861",
+      "codigo_celular": "RT-C039",
+      "equipos": [],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "SULLER SCHELTON, CARLO ALESANDRO",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "pcontreras@abril.pe",
+      "nombre_completo": "CONTRERAS GOMEZ, ALLISON PAOLA",
+      "planilla": "SEVARO",
+      "cargo": "Jefe Legal",
+      "area": "LEGAL",
+      "dni": "74407324",
+      "celular_corporativo": "995905086",
+      "codigo_celular": "RT-C012",
+      "equipos": [
+        {
+          "codigo": "RT-LA012",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWNT3"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "BADILLO ORTIZ, JOSUE",
+      "planilla": "SEVARO",
+      "cargo": "PROCURADOR",
+      "area": "LEGAL",
+      "dni": "46649819",
+      "celular_corporativo": "937442567",
+      "codigo_celular": "RT-C050",
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "jbellido@abril.pe",
+      "nombre_completo": "BELLIDO DELGADO, JOSE ANTONIO",
+      "planilla": "TULSI",
+      "cargo": "Jefe de Marketing",
+      "area": "MARKETING",
+      "dni": "10320688",
+      "celular_corporativo": "937609391",
+      "codigo_celular": "RT-C022",
+      "equipos": [
+        {
+          "codigo": "RT-LA009",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWGLP"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "rvia@abril.pe",
+      "nombre_completo": "VIA HENOSTROZA, RODRIGO ABRAHAM",
+      "planilla": "SEVARO",
+      "cargo": "ANALISTA DE MARKETING",
+      "area": "MARKETING",
+      "dni": "72921324",
+      "celular_corporativo": "937609395",
+      "codigo_celular": "RT-C009",
+      "equipos": [
+        {
+          "codigo": "RT-LA032",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5SJ54C"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "kquispe@abril.pe",
+      "nombre_completo": "QUISPE MAYURI, KATHERINE DEL ROSARIO",
+      "planilla": "JADE",
+      "cargo": "ASISTENTE DE OFICINA TÉCNICA",
+      "area": "MARKETING",
+      "dni": "73317500",
+      "celular_corporativo": "996462553",
+      "codigo_celular": "RT-C045",
+      "equipos": [
+        {
+          "codigo": "RT-LA048",
+          "marca": "ASUS V16",
+          "sn": "TCN0CV12Y08851G"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "MANYARI BASANTA, RAFAELLA ALESSANDRA",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "CONTRERAS ALVINO, SAMIRA MARLENE",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "disenort@abril.pe",
+      "nombre_completo": "LANDA CACERES, JAVIER",
+      "planilla": "TULSI",
+      "cargo": "DISEÑADOR GRÁFICO SENIOR",
+      "area": "MARKETING",
+      "dni": "74024462",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-PC006",
+          "marca": null,
+          "sn": "Ultra 7+ 32gb RAM+ RTX 5060"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "jtoro@abril.pe",
+      "nombre_completo": "TORO ENCARNACION, JORGE LUIS",
+      "planilla": "SEVARO",
+      "cargo": "Diseñador Grafico",
+      "area": "MARKETING",
+      "dni": "76826271",
+      "celular_corporativo": "996778292",
+      "codigo_celular": "RT-C017",
+      "equipos": [
+        {
+          "codigo": "RT-LA022",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "MP2SHV72"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "agarcia@abril.pe",
+      "nombre_completo": "GARCIA  ACOSTUPA , ALAN EDWAR",
+      "planilla": "JADE",
+      "cargo": "COORDINADOR DE OPERACIONES",
+      "area": "OPERACIONES",
+      "dni": "46087937",
+      "celular_corporativo": "985348061",
+      "codigo_celular": "RT-C001",
+      "equipos": [
+        {
+          "codigo": "RT-LA023",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRKKE"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "DIESTRA JULCA, PABLO",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-LA041",
+          "marca": "DELL",
+          "sn": null
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "ESPINOZA FLORES, ANGELO JESUS",
+      "planilla": "SEVARO",
+      "cargo": "ASISTENTE DE OPERACIONES",
+      "area": "OPERACIONES",
+      "dni": "74237417",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "QUISPE LARTIGA, MARIO ROBERTO",
+      "planilla": "TULSI",
+      "cargo": "ASISTENTE DE OPERACIONES",
+      "area": "OPERACIONES",
+      "dni": "73145129",
+      "celular_corporativo": "937495684",
+      "codigo_celular": "RT-C066",
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "cperezf@abril.pe",
+      "nombre_completo": "PEREZ-FIGUEROA MALAGA, CARLOS RODRIGO",
+      "planilla": "SEVARO",
+      "cargo": "ANALISTA BIM VDC",
+      "area": "PROYECTOS",
+      "dni": "48772406",
+      "celular_corporativo": "937503436",
+      "codigo_celular": "RT-C048",
+      "equipos": [
+        {
+          "codigo": "RT-PC004",
+          "marca": null,
+          "sn": "Ultra 7+ 32gb RAM+ RTX 5060"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "llino@abril.pe",
+      "nombre_completo": "LINO QUEVEDO, LUIS",
+      "planilla": "JADE",
+      "cargo": "COMUNICADOR AUDIOVISUAL",
+      "area": "MARKETING",
+      "dni": "77203280",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-PC010",
+          "marca": "POR REGISTRAR",
+          "sn": "POR REGISTRAR"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "jtapia@abril.pe",
+      "nombre_completo": "TAPIA OLIVOS, JOHANNA SCARLETT",
+      "planilla": "SEVARO",
+      "cargo": "Asistente de Proyectos",
+      "area": "PROYECTOS",
+      "dni": "72920374",
+      "celular_corporativo": "938904215",
+      "codigo_celular": "RT-C038",
+      "equipos": [
+        {
+          "codigo": "RT-PC002",
+          "marca": null,
+          "sn": "Ultra 7+ 32gb RAM+ RTX 5060"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "maltuna@abril.pe",
+      "nombre_completo": "ALTUNA DE LA CRUZ, MICHELLE IBET",
+      "planilla": "SEVARO",
+      "cargo": "ARQUITECTO DE PROYECTOS",
+      "area": "PROYECTOS",
+      "dni": "71257947",
+      "celular_corporativo": "939074845",
+      "codigo_celular": "RT-C013",
+      "equipos": [
+        {
+          "codigo": "RT-LA035",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "MP2SHMHT"
+        },
+        {
+          "codigo": "RT-PC001",
+          "marca": null,
+          "sn": "Ultra 7+ 32gb RAM+ RTX 5060"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "abenavente@abril.pe",
+      "nombre_completo": "BENAVENTE CERRON, RITH AXL JESUS",
+      "planilla": "JADE",
+      "cargo": "JEFE DE PROYECTOS",
+      "area": "PROYECTOS",
+      "dni": "48315935",
+      "celular_corporativo": "937609369",
+      "codigo_celular": "RT-C014",
+      "equipos": [
+        {
+          "codigo": "RT-LA040",
+          "marca": "MSI",
+          "sn": "V2508N0003012"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "ssomart1@abril.pe",
+      "nombre_completo": "TELLO RICARTE, JOSÉ ALBERTO",
+      "planilla": "CANELA",
+      "cargo": "INGENIERO PREVENCIONISTA SSOMA",
+      "area": "PROYECTOS",
+      "dni": "72791301",
+      "celular_corporativo": "943183642",
+      "codigo_celular": "RT-C033",
+      "equipos": [
+        {
+          "codigo": "RT-LA029",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWKEK"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "mailto:mcisneros@abril.pe",
+      "nombre_completo": "CISNEROS PAUCAR, MARIELA ELISA",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-PC003",
+          "marca": null,
+          "sn": "Ultra 7+ 32gb RAM+ RTX 5060"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "MINAYA DIAZ, JOSE LUIS",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "mailto:jbustamante@abril.pe",
+      "nombre_completo": "BUSTAMANTE CCAHUANA, JOSE MANUEL",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "CHOQUE HUANCACHOQUE, JOSE CARLOS",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": "995904947",
+      "codigo_celular": "RT-C026",
+      "equipos": [
+        {
+          "codigo": "RT-LA034",
+          "marca": "LENOVO LOQ",
+          "sn": "MP2SHV7A"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "rcorreah@abril.pe",
+      "nombre_completo": "CORREA HUATAY, RUBI ALEJANDRA",
+      "planilla": "JADE",
+      "cargo": "JEFE DE CALIDAD DE OBRA",
+      "area": "PROYECTOS",
+      "dni": "74146152",
+      "celular_corporativo": "965943272",
+      "codigo_celular": "RT-C016",
+      "equipos": [
+        {
+          "codigo": "RT-LA039",
+          "marca": "DELL",
+          "sn": null
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "aloret@abril.pe",
+      "nombre_completo": "LORET DE MOLA HERRERA, ALFREDO",
+      "planilla": "JADE",
+      "cargo": "Ingeniero de Produccion",
+      "area": "PROYECTOS",
+      "dni": "72572865",
+      "celular_corporativo": "984842084",
+      "codigo_celular": "RT-C040",
+      "equipos": [
+        {
+          "codigo": "RT-LA028",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWNTH"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "mailto:gugaz@abril.pe",
+      "nombre_completo": "UGAZ PECHO, GIAN FRANSUA",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "jgayoso@abril.pe",
+      "nombre_completo": "GAYOSO ARELLANO, JOSE CARLOS",
+      "planilla": "JADE",
+      "cargo": "Jefe de Post Venta",
+      "area": "PROYECTOS",
+      "dni": "44355107",
+      "celular_corporativo": "995904947",
+      "codigo_celular": "RT-C026",
+      "equipos": [
+        {
+          "codigo": "RT-LA034",
+          "marca": "LENOVO LOQ",
+          "sn": "MP2SHV7A"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "gcoria@abril.pe",
+      "nombre_completo": "CORIA RIOS, GIANCARLO",
+      "planilla": "TULSI",
+      "cargo": "ASISTENTE DE OFICINA TÉCNICA",
+      "area": "PROYECTOS",
+      "dni": "71744328",
+      "celular_corporativo": "995905099",
+      "codigo_celular": "RT-C046",
+      "equipos": [
+        {
+          "codigo": "RT-LA045",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF62XQC8"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "calmeida@abril.pe",
+      "nombre_completo": "ALMEIDA ROON, CHRISTIAN ALESSANDER",
+      "planilla": "CANELA",
+      "cargo": "INGENIERO DE OFICINA TECNICA",
+      "area": "PROYECTOS",
+      "dni": "73072755",
+      "celular_corporativo": "954955787",
+      "codigo_celular": "RT-C052",
+      "equipos": [
+        {
+          "codigo": "RT-LA042",
+          "marca": "ACER NITRO  V15",
+          "sn": "NHQZAAL0065311C17E7600"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "dcampomanes@abril.pe",
+      "nombre_completo": "CAMPOMANES AVELLANEDA, DIEGO FRANCO",
+      "planilla": "JADE",
+      "cargo": "Asistente de Proyectos",
+      "area": "PROYECTOS",
+      "dni": "76061868",
+      "celular_corporativo": "937442022",
+      "codigo_celular": "RT-C054",
+      "equipos": [
+        {
+          "codigo": "RT-PC005",
+          "marca": null,
+          "sn": "I7 10700k + 16GB DDR4"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "cmori@abril.pe",
+      "nombre_completo": "MORI CARBAJAL, CAMILA BELEN",
+      "planilla": "JADE",
+      "cargo": "ASISTENTE DE GESTION DE TERRENOS",
+      "area": "PROYECTOS",
+      "dni": "70928180",
+      "celular_corporativo": "RT-C006 | 968905291",
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-LA004",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWGLE"
+        }
+      ],
+      "licencia_m365": "Power BI Pro",
+      "estado": "BAJA"
+    },
+    {
+      "email": "awilbet@abril.pe",
+      "nombre_completo": "WILBET RUJJEL, ANTHONY CHRISTOPHER",
+      "planilla": "CANELA",
+      "cargo": "INGENIERO DE OFICINA TECNICA",
+      "area": "PROYECTOS",
+      "dni": "70324066",
+      "celular_corporativo": "937440941",
+      "codigo_celular": "RT-C053",
+      "equipos": [
+        {
+          "codigo": "RT-LA043",
+          "marca": "ACER NITRO  V15",
+          "sn": "NHQZAAL0065311C1AA7600"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "QUINTANA RONDON, NOHELIA IVONNE",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "HUANCA TAPIA, MARIBEL",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "cmartinez@abril.pe",
+      "nombre_completo": "MARTINEZ DE PINILLOS QUIÑONES, MARIA CECILIA",
+      "planilla": "CANELA",
+      "cargo": "JEFA DE RELACIONES LABORALES",
+      "area": "RELACIONES LABORALES",
+      "dni": "17614673",
+      "celular_corporativo": "Considerar Celular",
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-LA002",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWKH3"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "jgarcia@abril.pe",
+      "nombre_completo": "GARCIA ACOSTUPA, JIMMY DAVID",
+      "planilla": "JADE",
+      "cargo": "COORDINADOR DE TI",
+      "area": "TI",
+      "dni": "73089596",
+      "celular_corporativo": "985348061",
+      "codigo_celular": "RT-C001",
+      "equipos": [
+        {
+          "codigo": "RT-LA023",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRKKE"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "RIVEROS CASTRO, GUSTAVO MAXIMILIANO",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "VEGA ALCEDO, JAIRO ALEJANDRO",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-LA008",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWKDL"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "gpachas@abril.pe",
+      "nombre_completo": "PACHAS ARAOS, GIANCARLO",
+      "planilla": "TULSI",
+      "cargo": "ASESOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "45782227",
+      "celular_corporativo": "937609360",
+      "codigo_celular": "RT-C071",
+      "equipos": [
+        {
+          "codigo": "RT-LA005",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRKNL"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "waguirre@abril.pe",
+      "nombre_completo": "AGUIRRE HUAMAN, WILDER KEVIN",
+      "planilla": "TULSI",
+      "cargo": "ASESOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "73439131",
+      "celular_corporativo": "971799196",
+      "codigo_celular": "RT-C028",
+      "equipos": [
+        {
+          "codigo": "RT-LA007",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWNSH"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "mailto:ljespinoza@abril.pe",
+      "nombre_completo": "ESPINOZA LUNA, LUIS JUNIOR",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-LA006",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QPR7K"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": "fmendozas@abril.pe",
+      "nombre_completo": "MENDOZA SALDAÑA, FRANK ANDRE",
+      "planilla": "TULSI",
+      "cargo": "ASESOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "72303490",
+      "celular_corporativo": "939522112",
+      "codigo_celular": "RT-C042",
+      "equipos": [
+        {
+          "codigo": "RT-LA001",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRKLH"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "hescobar@abril.pe",
+      "nombre_completo": "ESCOBAR MAGUIÑA, HERBERT MARTÍN",
+      "planilla": "TULSI",
+      "cargo": "ASESOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "70837134",
+      "celular_corporativo": "998537816",
+      "codigo_celular": "RT-C023",
+      "equipos": [
+        {
+          "codigo": "RT-LA003",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRHVC"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "BENITES CCANRE, IVAN",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "DELGADO GAYOSO, JORGE",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": "937441909",
+      "codigo_celular": "RT-C055",
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "RODRIGUEZ ESPINOZA, JOSE ANTONIO JUNIOR",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": "937609391",
+      "codigo_celular": "RT-C022",
+      "equipos": [
+        {
+          "codigo": "RT-LA006",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QPR7K"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "BAJA"
+    },
+    {
+      "email": null,
+      "nombre_completo": "RONQUILLO CAJALEON, MICHAEL",
+      "planilla": "JADE",
+      "cargo": "VIGILANTE",
+      "area": "VIGILANCIA",
+      "dni": "47231305",
+      "celular_corporativo": "937441685",
+      "codigo_celular": "RT-C057",
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "URIARTE ALTAMIRANO, CARLOS",
+      "planilla": "TULSI",
+      "cargo": "VIGILANTE",
+      "area": "VIGILANCIA",
+      "dni": "07643621",
+      "celular_corporativo": "937442365",
+      "codigo_celular": "RT-C056",
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "achavarri@abril.pe",
+      "nombre_completo": "CHAVARRI VIDAL, ARLETHY MERCEDES",
+      "planilla": "CANELA",
+      "cargo": "ASISTENTE DE POST VENTA",
+      "area": "PROYECTOS",
+      "dni": "72934929",
+      "celular_corporativo": "995904927",
+      "codigo_celular": "RT-C019",
+      "equipos": [
+        {
+          "codigo": "RT-LA044",
+          "marca": "HP Victus 15-FB3020LA",
+          "sn": "5CD53848CB"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "acamacho@abril.pe",
+      "nombre_completo": "CAMACHO CONDORI, ADRIÁN JOSÉ",
+      "planilla": "JADE",
+      "cargo": "INGENIERO DE PRODUCCIÓN",
+      "area": "PROYECTOS",
+      "dni": "45302395",
+      "celular_corporativo": "920848331",
+      "codigo_celular": "RT-C002",
+      "equipos": [
+        {
+          "codigo": "RT-LA047",
+          "marca": "ASUS V16",
+          "sn": "TCN0CV12Y13851C"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "bpadilla@abril.pe",
+      "nombre_completo": "PADILLA FUERTES, BEATRIZ ROSARIO",
+      "planilla": "TULSI",
+      "cargo": "ASISTENTE ADMINISTRATIVO DE OBRA",
+      "area": "PROYECTOS",
+      "dni": "76579111",
+      "celular_corporativo": "937495750",
+      "codigo_celular": "RT-C069",
+      "equipos": [
+        {
+          "codigo": "RT-LA051",
+          "marca": "LENOVO IDEAPAD 5i",
+          "sn": "MP2SXFDN"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "dgaona@abril.pe",
+      "nombre_completo": "GAONA SÁNCHEZ, RICARDO DIEGO",
+      "planilla": "⚠ REVISAR",
+      "cargo": "CREADOR DE CONTENIDO",
+      "area": "MARKETING",
+      "dni": "47381468",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-LA046",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": null
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "Personal activo sin equipo celular asignado",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": "5",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "Ventas-Asesor comercial (ingreso pendiente)",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": "3",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "Marketing-Trafficker Digital (ingreso pendiente)",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": "1",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "Proyectos – Staff Kava y Catleya (ingreso pendiente)",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": "21",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "Proyectos – Arquitectos (ingreso pendiente)",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": "2",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "TOTAL EQUIPOS",
+      "planilla": "⚠ REVISAR",
+      "cargo": null,
+      "area": null,
+      "dni": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "jnarvaez@abril.pe",
+      "nombre_completo": "NARVAEZ GONZALEZ, JORGE LUIS",
+      "planilla": "TULSI",
+      "cargo": "SUPERVISOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "44106998",
+      "celular_corporativo": "996778292",
+      "codigo_celular": "RT-C017",
+      "equipos": [
+        {
+          "codigo": "RT-LA022",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "MP2SHV72"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "ghernandez@abril.pe",
+      "nombre_completo": "HERNANDEZ MEDINA, GIANCARLOS",
+      "planilla": "⚠ REVISAR",
+      "cargo": "ASISTENTE LEGAL",
+      "area": "LEGAL",
+      "dni": "76618530",
+      "celular_corporativo": "937791993",
+      "codigo_celular": "RT-C027",
+      "equipos": [
+        {
+          "codigo": "RT-LA013",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRKP1"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "lhinostroza@abril.pe",
+      "nombre_completo": "HINOSTROZA HUACCACHI, LAURA BRISSETTE",
+      "planilla": "⚠ REVISAR",
+      "cargo": "COORDINADORA DE NOMINAS",
+      "area": "RELACIONES LABORALES",
+      "dni": "47527183",
+      "celular_corporativo": "937609327",
+      "codigo_celular": "RT-C008",
+      "equipos": [
+        {
+          "codigo": "RT-LA018",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWNXE"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "ylopez@abril.pe",
+      "nombre_completo": "LOPEZ ALBUJAR, YOLANDA ANITA",
+      "planilla": "JADE",
+      "cargo": "ARQUITECTA DE ACABADOS",
+      "area": "PROYECTOS",
+      "dni": "70854153",
+      "celular_corporativo": "939216386",
+      "codigo_celular": "RT-C005",
+      "equipos": [
+        {
+          "codigo": "RT-LA038",
+          "marca": "ASUS",
+          "sn": "FX608J"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "jfernandezb@abril.pe",
+      "nombre_completo": "FERNANDEZ BERRIOS, JOSÉ DIEGO",
+      "planilla": "JADE",
+      "cargo": "GESTOR DE TERRENOS",
+      "area": "PROYECTOS",
+      "dni": "71908493",
+      "celular_corporativo": "995904942",
+      "codigo_celular": "RT-C059",
+      "equipos": [
+        {
+          "codigo": "RT-LA030",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWJ16"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "mvassallo@abril.pe",
+      "nombre_completo": "VASSALLO PILCO, MAURICIO EDUARDO",
+      "planilla": "JADE",
+      "cargo": "ASESOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "41998627",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-LA011",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRMKW"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "vmonteza@abril.pe",
+      "nombre_completo": "MONTEZA DÁVALOS, VÍCTOR RODOLFO",
+      "planilla": "JADE",
+      "cargo": "ASESOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "42738651",
+      "celular_corporativo": "932892989",
+      "codigo_celular": "RT-C065",
+      "equipos": [
+        {
+          "codigo": "RT-LA052",
+          "marca": "LENOVO IDEAPAD 5i",
+          "sn": null
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "rfigueroa@abril.pe",
+      "nombre_completo": "FIGUEROA CADILLO, ROBERT GIOVANNI",
+      "planilla": "TULSI",
+      "cargo": "INGENIERO RESIDENTE",
+      "area": "PROYECTOS",
+      "dni": "08168123",
+      "celular_corporativo": "932891623",
+      "codigo_celular": "RT-C062",
+      "equipos": [],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "pconcha@abril.pe",
+      "nombre_completo": "CONCHA, PAOLA",
+      "planilla": "⚠ REVISAR",
+      "cargo": "ANALISTA DE GESTIÓN HUMANA",
+      "area": "RELACIONES LABORALES",
+      "dni": null,
+      "celular_corporativo": "995904942",
+      "codigo_celular": "RT-C015",
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "aavalosp@abril.pe",
+      "nombre_completo": "AVALOS PALOMINO, ALEXANDER",
+      "planilla": "TULSI",
+      "cargo": "INGENIERO DE INSTALACIONES TECNICAS",
+      "area": "PROYECTOS",
+      "dni": "76528287",
+      "celular_corporativo": "965911413",
+      "codigo_celular": "RT-C043",
+      "equipos": [
+        {
+          "codigo": "RT-LA027",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QWM8Z"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "mmalca@abril.pe",
+      "nombre_completo": "MALCA LLERENA, MARJORIE",
+      "planilla": "TULSI",
+      "cargo": "ARQUITECTO DE PROYECTOS",
+      "area": "PROYECTOS",
+      "dni": "77425982",
+      "celular_corporativo": "995904935",
+      "codigo_celular": "RT-C010",
+      "equipos": [
+        {
+          "codigo": "RT-PC009",
+          "marca": "POR REGISTRAR",
+          "sn": "POR REGISTRAR"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "rperezn@abril.pe",
+      "nombre_completo": "PEREZ NONONES, RODOLFO",
+      "planilla": "JADE",
+      "cargo": "ASESOR DE VENTAS",
+      "area": "VENTAS",
+      "dni": "40425267",
+      "celular_corporativo": "972661986",
+      "codigo_celular": "RT-C004",
+      "equipos": [
+        {
+          "codigo": "RT-LA049",
+          "marca": null,
+          "sn": null
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "LA ROSA TAIPE, MARCELO JOSUE",
+      "planilla": "CANELA",
+      "cargo": "GESTOR DE CAMPO",
+      "area": "CAMPO",
+      "dni": "???",
+      "celular_corporativo": "937495673",
+      "codigo_celular": "RT-C068",
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "csanchez@abril.pe",
+      "nombre_completo": "SANCHEZ, CAMILA",
+      "planilla": "JADE",
+      "cargo": "DISEÑADOR GRÁFICO",
+      "area": "MARKETING",
+      "dni": "72892398",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [
+        {
+          "codigo": "RT-PC007",
+          "marca": null,
+          "sn": "Ultra 7+ 32gb RAM+ RTX 5060"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "jmoranv@abril.pe",
+      "nombre_completo": "MORAN VIVANCO, JUAN",
+      "planilla": "⚠ REVISAR",
+      "cargo": "GERENTE GENERAL",
+      "area": "GERENCIA",
+      "dni": "???",
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": "Power BI Pro",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "fcaqui@abril.pe",
+      "nombre_completo": "CAQUI RAMOS, FIORELLA",
+      "planilla": "CANELA",
+      "cargo": "ABOGADA LABORALISTA",
+      "area": "LEGAL",
+      "dni": "???",
+      "celular_corporativo": "937442491",
+      "codigo_celular": "RT-C051",
+      "equipos": [],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "dmiranda@abril.pe",
+      "nombre_completo": "MIRANDA ZEGARRA, DIANA",
+      "planilla": "JADE",
+      "cargo": "ASESORA DE VENTAS",
+      "area": "VENTAS",
+      "dni": "44541425",
+      "celular_corporativo": "937503441",
+      "codigo_celular": "RT-C020",
+      "equipos": [
+        {
+          "codigo": "RT-LA026",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QX03P"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": null,
+      "nombre_completo": "TORO ENCARNACION, JORGE LUIS",
+      "planilla": "SEVARO",
+      "cargo": "DISEÑADOR GRÁFICO",
+      "area": "DISEÑO",
+      "dni": "76826271",
+      "celular_corporativo": "996778292",
+      "codigo_celular": "RT-C017",
+      "equipos": [
+        {
+          "codigo": "RT-LA022",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "MP2SHV72"
+        }
+      ],
+      "licencia_m365": null,
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "kramirez@abril.pe",
+      "nombre_completo": "RAMÍREZ IZAGUIRRE, KELVIN ENRIQUE JOSÉ",
+      "planilla": "JADE",
+      "cargo": "Asesor de Ventas",
+      "area": "Ventas",
+      "dni": "C.E. 002548803",
+      "celular_corporativo": "937503599",
+      "codigo_celular": "RT-C036",
+      "equipos": [
+        {
+          "codigo": "RT-LA021",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QRKN0"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    }
+  ]
+}
