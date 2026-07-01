@@ -7,9 +7,9 @@
       "CANELA",
       "SEVARO"
     ],
-    "ultima_actualizacion": "2026-06-30",
-    "total": 88,
-    "activos": 69,
+    "ultima_actualizacion": "2026-07-01",
+    "total": 89,
+    "activos": 70,
     "id_principal": "email"
   },
   "colaboradores": [
@@ -1493,6 +1493,25 @@
           "codigo": "RT-LA021",
           "marca": "LENOVO IDEAPAD SLIM",
           "sn": "PF5QRKN0"
+        }
+      ],
+      "licencia_m365": "Office 365 E3",
+      "estado": "ACTIVO"
+    },
+    {
+      "email": "clazo@abril.pe",
+      "nombre_completo": "LAZO RIVERA, CARLOS JOSEPH",
+      "planilla": "SEVARO",
+      "cargo": "Responsable SSOMA",
+      "area": "SSOMA",
+      "dni": "48125059",
+      "celular_corporativo": "965921837",
+      "codigo_celular": "RT-C018",
+      "equipos": [
+        {
+          "codigo": "RT-LA031",
+          "marca": "LENOVO IDEAPAD SLIM",
+          "sn": "PF5QPTES"
         }
       ],
       "licencia_m365": "Office 365 E3",
