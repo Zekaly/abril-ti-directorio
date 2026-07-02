@@ -9,7 +9,7 @@
     ],
     "ultima_actualizacion": "2026-07-02",
     "total": 89,
-    "activos": 69,
+    "activos": 70,
     "id_principal": "email"
   },
   "colaboradores": [
@@ -1510,6 +1510,24 @@
       ],
       "licencia_m365": "Office 365 E3",
       "estado": "ACTIVO"
+    },
+    {
+      "nombre": "Miguel Angel Flores Abanto",
+      "email": "mflores@abril.pe",
+      "cargo": "Ingeniero de Producción",
+      "area": "Producción",
+      "planilla": "SEVARO",
+      "empresa": "Corporación Inmobiliaria Sevaro S.A.C.",
+      "dni": "46082934",
+      "estado": "ACTIVO",
+      "fecha_ingreso": "2026-07-03",
+      "celular_corporativo": "965920034",
+      "codigo_celular": "RT-C030",
+      "modelo_celular": "Honor X8b",
+      "licencia_m365": null,
+      "equipos": [
+        "RT-C030"
+      ]
     }
   ]
 }
