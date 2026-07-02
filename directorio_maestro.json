@@ -9,7 +9,7 @@
     ],
     "ultima_actualizacion": "2026-07-02",
     "total": 89,
-    "activos": 70,
+    "activos": 71,
     "id_principal": "email"
   },
   "colaboradores": [
@@ -169,7 +169,9 @@
       "dni": "72886667",
       "celular_corporativo": "937788861",
       "codigo_celular": "RT-C039",
-      "equipos": [],
+      "equipos": [
+        "RT-LA010"
+      ],
       "licencia_m365": "Office 365 E3",
       "estado": "ACTIVO"
     },
@@ -1303,7 +1305,9 @@
       "dni": "08168123",
       "celular_corporativo": "932891623",
       "codigo_celular": "RT-C062",
-      "equipos": [],
+      "equipos": [
+        "RT-LA053"
+      ],
       "licencia_m365": "Office 365 E3",
       "estado": "ACTIVO"
     },
@@ -1316,7 +1320,9 @@
       "dni": null,
       "celular_corporativo": "995904942",
       "codigo_celular": "RT-C015",
-      "equipos": [],
+      "equipos": [
+        "RT-LA019"
+      ],
       "licencia_m365": null,
       "estado": "ACTIVO"
     },
@@ -1431,7 +1437,9 @@
       "dni": "???",
       "celular_corporativo": "937442491",
       "codigo_celular": "RT-C051",
-      "equipos": [],
+      "equipos": [
+        "RT-LA020"
+      ],
       "licencia_m365": "Office 365 E3",
       "estado": "ACTIVO"
     },
@@ -1527,6 +1535,23 @@
       "licencia_m365": null,
       "equipos": [
         "RT-C030"
+      ]
+    },
+    {
+      "nombre": "Benji Valentin Santos Salvador",
+      "email": "bsantos@abril.pe",
+      "cargo": "Almacenero",
+      "area": "Almacén",
+      "planilla": null,
+      "empresa": null,
+      "dni": null,
+      "estado": "ACTIVO",
+      "fecha_ingreso": null,
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "licencia_m365": null,
+      "equipos": [
+        "RT-LA006"
       ]
     }
   ]
