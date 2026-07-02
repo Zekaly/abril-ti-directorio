@@ -7,9 +7,9 @@
       "CANELA",
       "SEVARO"
     ],
-    "ultima_actualizacion": "2026-07-01",
+    "ultima_actualizacion": "2026-07-02",
     "total": 89,
-    "activos": 70,
+    "activos": 69,
     "id_principal": "email"
   },
   "colaboradores": [
@@ -1174,17 +1174,11 @@
       "cargo": "SUPERVISOR DE VENTAS",
       "area": "VENTAS",
       "dni": "44106998",
-      "celular_corporativo": "996778292",
-      "codigo_celular": "RT-C017",
-      "equipos": [
-        {
-          "codigo": "RT-LA022",
-          "marca": "LENOVO IDEAPAD SLIM",
-          "sn": "MP2SHV72"
-        }
-      ],
-      "licencia_m365": "Office 365 E3",
-      "estado": "ACTIVO"
+      "celular_corporativo": null,
+      "codigo_celular": null,
+      "equipos": [],
+      "licencia_m365": null,
+      "estado": "BAJA"
     },
     {
       "email": "ghernandez@abril.pe",
