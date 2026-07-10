@@ -7,10 +7,11 @@
       "CANELA",
       "SEVARO"
     ],
-    "ultima_actualizacion": "08/07/2026",
+    "ultima_actualizacion": "2026-07-10",
     "total": 89,
     "activos": 71,
-    "id_principal": "email"
+    "id_principal": "email",
+    "total_colaboradores": 97
   },
   "colaboradores": [
     {
@@ -85,7 +86,7 @@
     },
     {
       "email": "mocana@abril.pe",
-      "nombre_completo": "OCAÃÂÃÂÃÂÃÂA ARANDA, MAGNA MARITZA",
+      "nombre_completo": "OCAÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂA ARANDA, MAGNA MARITZA",
       "planilla": "TULSI",
       "cargo": "JEFE DE CONTABILIDAD Y TESORERIA",
       "area": "CONTABILIDAD",
@@ -143,7 +144,7 @@
     },
     {
       "email": "kcastaneda@abril.pe",
-      "nombre_completo": "CASTAÃÂÃÂÃÂÃÂEDA ROMERO, KATHERINE BRENDA",
+      "nombre_completo": "CASTAÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂEDA ROMERO, KATHERINE BRENDA",
       "planilla": "TULSI",
       "cargo": "ABOGADO INMOBILIARIO",
       "area": "LEGAL",
@@ -178,7 +179,7 @@
     {
       "email": null,
       "nombre_completo": "SULLER SCHELTON, CARLO ALESANDRO",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -262,7 +263,7 @@
       "email": "kquispe@abril.pe",
       "nombre_completo": "QUISPE MAYURI, KATHERINE DEL ROSARIO",
       "planilla": "JADE",
-      "cargo": "ASISTENTE DE OFICINA TÃÂÃÂÃÂÃÂCNICA",
+      "cargo": "ASISTENTE DE OFICINA TÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCNICA",
       "area": "MARKETING",
       "dni": "73317500",
       "celular_corporativo": "996462553",
@@ -280,7 +281,7 @@
     {
       "email": null,
       "nombre_completo": "MANYARI BASANTA, RAFAELLA ALESSANDRA",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -293,7 +294,7 @@
     {
       "email": null,
       "nombre_completo": "CONTRERAS ALVINO, SAMIRA MARLENE",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -307,7 +308,7 @@
       "email": "disenort@abril.pe",
       "nombre_completo": "LANDA CACERES, JAVIER",
       "planilla": "TULSI",
-      "cargo": "DISEÃÂÃÂÃÂÃÂADOR GRÃÂÃÂÃÂÃÂFICO SENIOR",
+      "cargo": "DISEÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂADOR GRÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFICO SENIOR",
       "area": "MARKETING",
       "dni": "74024462",
       "celular_corporativo": null,
@@ -326,7 +327,7 @@
       "email": "jtoro@abril.pe",
       "nombre_completo": "TORO ENCARNACION, JORGE LUIS",
       "planilla": "SEVARO",
-      "cargo": "DiseÃÂÃÂÃÂÃÂ±ador Grafico",
+      "cargo": "DiseÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ador Grafico",
       "area": "MARKETING",
       "dni": "76826271",
       "celular_corporativo": "996778292",
@@ -363,7 +364,7 @@
     {
       "email": null,
       "nombre_completo": "DIESTRA JULCA, PABLO",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -507,7 +508,7 @@
     },
     {
       "email": "ssomart1@abril.pe",
-      "nombre_completo": "TELLO RICARTE, JOSÃÂÃÂÃÂÃÂ ALBERTO",
+      "nombre_completo": "TELLO RICARTE, JOSÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ALBERTO",
       "planilla": "CANELA",
       "cargo": "INGENIERO PREVENCIONISTA SSOMA",
       "area": "PROYECTOS",
@@ -527,7 +528,7 @@
     {
       "email": "mailto:mcisneros@abril.pe",
       "nombre_completo": "CISNEROS PAUCAR, MARIELA ELISA",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -546,7 +547,7 @@
     {
       "email": null,
       "nombre_completo": "MINAYA DIAZ, JOSE LUIS",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -559,7 +560,7 @@
     {
       "email": "mailto:jbustamante@abril.pe",
       "nombre_completo": "BUSTAMANTE CCAHUANA, JOSE MANUEL",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -572,7 +573,7 @@
     {
       "email": null,
       "nombre_completo": "CHOQUE HUANCACHOQUE, JOSE CARLOS",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -629,7 +630,7 @@
     {
       "email": "mailto:gugaz@abril.pe",
       "nombre_completo": "UGAZ PECHO, GIAN FRANSUA",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -662,7 +663,7 @@
       "email": "gcoria@abril.pe",
       "nombre_completo": "CORIA RIOS, GIANCARLO",
       "planilla": "TULSI",
-      "cargo": "ASISTENTE DE OFICINA TÃÂÃÂÃÂÃÂCNICA",
+      "cargo": "ASISTENTE DE OFICINA TÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCNICA",
       "area": "PROYECTOS",
       "dni": "71744328",
       "celular_corporativo": "995905099",
@@ -756,7 +757,7 @@
     {
       "email": null,
       "nombre_completo": "QUINTANA RONDON, NOHELIA IVONNE",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -769,7 +770,7 @@
     {
       "email": null,
       "nombre_completo": "HUANCA TAPIA, MARIBEL",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -781,7 +782,7 @@
     },
     {
       "email": "cmartinez@abril.pe",
-      "nombre_completo": "MARTINEZ DE PINILLOS QUIÃÂÃÂÃÂÃÂONES, MARIA CECILIA",
+      "nombre_completo": "MARTINEZ DE PINILLOS QUIÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂONES, MARIA CECILIA",
       "planilla": "CANELA",
       "cargo": "JEFA DE RELACIONES LABORALES",
       "area": "RELACIONES LABORALES",
@@ -820,7 +821,7 @@
     {
       "email": null,
       "nombre_completo": "RIVEROS CASTRO, GUSTAVO MAXIMILIANO",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -833,7 +834,7 @@
     {
       "email": null,
       "nombre_completo": "VEGA ALCEDO, JAIRO ALEJANDRO",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -890,7 +891,7 @@
     {
       "email": "mailto:ljespinoza@abril.pe",
       "nombre_completo": "ESPINOZA LUNA, LUIS JUNIOR",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -908,7 +909,7 @@
     },
     {
       "email": "fmendozas@abril.pe",
-      "nombre_completo": "MENDOZA SALDAÃÂÃÂÃÂÃÂA, FRANK ANDRE",
+      "nombre_completo": "MENDOZA SALDAÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂA, FRANK ANDRE",
       "planilla": "TULSI",
       "cargo": "ASESOR DE VENTAS",
       "area": "VENTAS",
@@ -927,7 +928,7 @@
     },
     {
       "email": "hescobar@abril.pe",
-      "nombre_completo": "ESCOBAR MAGUIÃÂÃÂÃÂÃÂA, HERBERT MARTÃÂÃÂÃÂÃÂN",
+      "nombre_completo": "ESCOBAR MAGUIÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂA, HERBERT MARTÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂN",
       "planilla": "TULSI",
       "cargo": "ASESOR DE VENTAS",
       "area": "VENTAS",
@@ -947,7 +948,7 @@
     {
       "email": null,
       "nombre_completo": "BENITES CCANRE, IVAN",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -960,7 +961,7 @@
     {
       "email": null,
       "nombre_completo": "DELGADO GAYOSO, JORGE",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -973,7 +974,7 @@
     {
       "email": null,
       "nombre_completo": "RODRIGUEZ ESPINOZA, JOSE ANTONIO JUNIOR",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -1036,9 +1037,9 @@
     },
     {
       "email": "acamacho@abril.pe",
-      "nombre_completo": "CAMACHO CONDORI, ADRIÃÂÃÂÃÂÃÂN JOSÃÂÃÂÃÂÃÂ",
+      "nombre_completo": "CAMACHO CONDORI, ADRIÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂN JOSÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
       "planilla": "JADE",
-      "cargo": "INGENIERO DE PRODUCCIÃÂÃÂÃÂÃÂN",
+      "cargo": "INGENIERO DE PRODUCCIÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂN",
       "area": "PROYECTOS",
       "dni": "45302395",
       "celular_corporativo": "920848331",
@@ -1074,8 +1075,8 @@
     },
     {
       "email": "dgaona@abril.pe",
-      "nombre_completo": "GAONA SÃÂÃÂÃÂÃÂNCHEZ, RICARDO DIEGO",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "nombre_completo": "GAONA SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂNCHEZ, RICARDO DIEGO",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": "CREADOR DE CONTENIDO",
       "area": "MARKETING",
       "dni": "47381468",
@@ -1094,7 +1095,7 @@
     {
       "email": null,
       "nombre_completo": "Personal activo sin equipo celular asignado",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": "5",
@@ -1107,7 +1108,7 @@
     {
       "email": null,
       "nombre_completo": "Ventas-Asesor comercial (ingreso pendiente)",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": "3",
@@ -1120,7 +1121,7 @@
     {
       "email": null,
       "nombre_completo": "Marketing-Trafficker Digital (ingreso pendiente)",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": "1",
@@ -1132,8 +1133,8 @@
     },
     {
       "email": null,
-      "nombre_completo": "Proyectos ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Staff Kava y Catleya (ingreso pendiente)",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "nombre_completo": "Proyectos ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Staff Kava y Catleya (ingreso pendiente)",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": "21",
@@ -1145,8 +1146,8 @@
     },
     {
       "email": null,
-      "nombre_completo": "Proyectos ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Arquitectos (ingreso pendiente)",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "nombre_completo": "Proyectos ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Arquitectos (ingreso pendiente)",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": "2",
@@ -1159,7 +1160,7 @@
     {
       "email": null,
       "nombre_completo": "TOTAL EQUIPOS",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": null,
       "area": null,
       "dni": null,
@@ -1185,7 +1186,7 @@
     {
       "email": "ghernandez@abril.pe",
       "nombre_completo": "HERNANDEZ MEDINA, GIANCARLOS",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": "ASISTENTE LEGAL",
       "area": "LEGAL",
       "dni": "76618530",
@@ -1204,7 +1205,7 @@
     {
       "email": "lhinostroza@abril.pe",
       "nombre_completo": "HINOSTROZA HUACCACHI, LAURA BRISSETTE",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": "COORDINADORA DE NOMINAS",
       "area": "RELACIONES LABORALES",
       "dni": "47527183",
@@ -1241,7 +1242,7 @@
     },
     {
       "email": "jfernandezb@abril.pe",
-      "nombre_completo": "FERNANDEZ BERRIOS, JOSÃÂÃÂÃÂÃÂ DIEGO",
+      "nombre_completo": "FERNANDEZ BERRIOS, JOSÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ DIEGO",
       "planilla": "JADE",
       "cargo": "GESTOR DE TERRENOS",
       "area": "PROYECTOS",
@@ -1279,7 +1280,7 @@
     },
     {
       "email": "vmonteza@abril.pe",
-      "nombre_completo": "MONTEZA DÃÂÃÂÃÂÃÂVALOS, VÃÂÃÂÃÂÃÂCTOR RODOLFO",
+      "nombre_completo": "MONTEZA DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂVALOS, VÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCTOR RODOLFO",
       "planilla": "JADE",
       "cargo": "ASESOR DE VENTAS",
       "area": "VENTAS",
@@ -1314,8 +1315,8 @@
     {
       "email": "pconcha@abril.pe",
       "nombre_completo": "CONCHA, PAOLA",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
-      "cargo": "ANALISTA DE GESTIÃÂÃÂÃÂÃÂN HUMANA",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
+      "cargo": "ANALISTA DE GESTIÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂN HUMANA",
       "area": "RELACIONES LABORALES",
       "dni": null,
       "celular_corporativo": "995904942",
@@ -1400,7 +1401,7 @@
       "email": "csanchez@abril.pe",
       "nombre_completo": "SANCHEZ, CAMILA",
       "planilla": "JADE",
-      "cargo": "DISEÃÂÃÂÃÂÃÂADOR GRÃÂÃÂÃÂÃÂFICO",
+      "cargo": "DISEÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂADOR GRÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFICO",
       "area": "MARKETING",
       "dni": "72892398",
       "celular_corporativo": null,
@@ -1418,7 +1419,7 @@
     {
       "email": "jmoranv@abril.pe",
       "nombre_completo": "MORAN VIVANCO, JUAN",
-      "planilla": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ  REVISAR",
+      "planilla": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  REVISAR",
       "cargo": "GERENTE GENERAL",
       "area": "GERENCIA",
       "dni": "???",
@@ -1466,8 +1467,8 @@
       "email": null,
       "nombre_completo": "TORO ENCARNACION, JORGE LUIS",
       "planilla": "SEVARO",
-      "cargo": "DISEÃÂÃÂÃÂÃÂADOR GRÃÂÃÂÃÂÃÂFICO",
-      "area": "DISEÃÂÃÂÃÂÃÂO",
+      "cargo": "DISEÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂADOR GRÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFICO",
+      "area": "DISEÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂO",
       "dni": "76826271",
       "celular_corporativo": "996778292",
       "codigo_celular": "RT-C017",
@@ -1483,7 +1484,7 @@
     },
     {
       "email": "kramirez@abril.pe",
-      "nombre_completo": "RAMÃÂÃÂÃÂÃÂREZ IZAGUIRRE, KELVIN ENRIQUE JOSÃÂÃÂÃÂÃÂ",
+      "nombre_completo": "RAMÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂREZ IZAGUIRRE, KELVIN ENRIQUE JOSÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
       "planilla": "JADE",
       "cargo": "Asesor de Ventas",
       "area": "Ventas",
@@ -1522,10 +1523,10 @@
     {
       "nombre": "Miguel Angel Flores Abanto",
       "email": "mflores@abril.pe",
-      "cargo": "Ingeniero de ProducciÃÂÃÂÃÂÃÂ³n",
-      "area": "ProducciÃÂÃÂÃÂÃÂ³n",
+      "cargo": "Ingeniero de ProducciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
+      "area": "ProducciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n",
       "planilla": "SEVARO",
-      "empresa": "CorporaciÃÂÃÂÃÂÃÂ³n Inmobiliaria Sevaro S.A.C.",
+      "empresa": "CorporaciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n Inmobiliaria Sevaro S.A.C.",
       "dni": "46082934",
       "estado": "ACTIVO",
       "fecha_ingreso": "2026-07-03",
@@ -1543,7 +1544,7 @@
       "nombre": "Benji Valentin Santos Salvador",
       "email": "bsantos@abril.pe",
       "cargo": "Almacenero",
-      "area": "AlmacÃÂÃÂÃÂÃÂ©n",
+      "area": "AlmacÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©n",
       "planilla": null,
       "empresa": null,
       "dni": null,
@@ -1563,7 +1564,7 @@
       "planilla": "SEVARO",
       "empresa": "Sevaro S.A.C.",
       "cargo": "Maestro de Obra",
-      "area": "ProducciÃÂÃÂ³n",
+      "area": "ProducciÃÂÃÂÃÂÃÂ³n",
       "dni": "09499913",
       "laptop": "RT-LA045",
       "celular": "",
@@ -1572,12 +1573,12 @@
     },
     {
       "id": "fsanchez",
-      "nombre": "Fernando SÃÂÃÂ¡nchez Alvarado",
+      "nombre": "Fernando SÃÂÃÂÃÂÃÂ¡nchez Alvarado",
       "email": "fsanchez@abril.pe",
       "planilla": "SEVARO",
       "empresa": "Sevaro S.A.C.",
       "cargo": "Ingeniero Residente",
-      "area": "ProducciÃÂÃÂ³n",
+      "area": "ProducciÃÂÃÂÃÂÃÂ³n",
       "dni": "41700895",
       "laptop": "RT-LA043",
       "celular": "RT-C021",
@@ -1590,8 +1591,8 @@
       "email": "kquispe@abril.pe",
       "planilla": "JADE",
       "empresa": "Jade S.A.C.",
-      "cargo": "Asistente de Oficina TÃÂ©cnica",
-      "area": "Oficina TÃÂ©cnica",
+      "cargo": "Asistente de Oficina TÃÂÃÂ©cnica",
+      "area": "Oficina TÃÂÃÂ©cnica",
       "dni": "73317500",
       "laptop": "RT-LA055",
       "celular": "",
@@ -1604,8 +1605,8 @@
       "email": "gcoria@abril.pe",
       "planilla": "TULSI",
       "empresa": "Tulsi S.A.C.",
-      "cargo": "Asistente de Oficina TÃÂ©cnica",
-      "area": "Oficina TÃÂ©cnica",
+      "cargo": "Asistente de Oficina TÃÂÃÂ©cnica",
+      "area": "Oficina TÃÂÃÂ©cnica",
       "dni": "71744328",
       "laptop": "RT-LA048",
       "celular": "",
@@ -1618,13 +1619,30 @@
       "email": "awilbet@abril.pe",
       "planilla": "CANELA",
       "empresa": "Canela S.A.C.",
-      "cargo": "Ingeniero de Oficina TÃÂ©cnica",
-      "area": "Oficina TÃÂ©cnica",
+      "cargo": "Ingeniero de Oficina TÃÂÃÂ©cnica",
+      "area": "Oficina TÃÂÃÂ©cnica",
       "dni": "70324066",
       "laptop": "RT-LA058",
       "celular": "",
       "estado": "ACTIVO",
       "fecha_alta": "07/07/2026"
+    },
+    {
+      "id": "caquise",
+      "nombres": "Cirilo",
+      "apellidos": "Aquise Vargas",
+      "dni": "42182397",
+      "empresa": "CANELA",
+      "cargo": "Maestro de Obra",
+      "area": "PROYECTOS",
+      "correo_corporativo": null,
+      "equipos": [
+        "RT-LA027"
+      ],
+      "licencias": [
+        "profesiocadista157@bwmyga.com"
+      ],
+      "estado": "ACTIVO"
     }
   ]
 }
